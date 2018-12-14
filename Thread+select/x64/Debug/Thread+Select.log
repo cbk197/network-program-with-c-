@@ -1,0 +1,91 @@
+﻿  stdafx.cpp
+  BTL.cpp
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(112): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(127): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(128): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(115): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(122): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(156): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(173): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(197): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(210): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(214): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(241): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(259): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(263): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(289): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(294): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(299): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(304): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(309): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(314): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(319): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(324): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(328): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(344): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(380): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(141): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(151): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(191): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(196): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(202): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(203): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(213): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(223): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(236): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(240): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(247): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(248): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(274): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(275): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(282): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(284): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(285): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(379): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(396): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(403): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(417): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ironman\desktop\btl_ltm\thread+select\btl.cpp(399): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+BTL.obj : error LNK2019: unresolved external symbol __imp_accept referenced in function main
+BTL.obj : error LNK2019: unresolved external symbol __imp_bind referenced in function main
+BTL.obj : error LNK2019: unresolved external symbol __imp_closesocket referenced in function "void __cdecl sendError(unsigned __int64)" (?sendError@@YAX_K@Z)
+BTL.obj : error LNK2019: unresolved external symbol __imp_htons referenced in function main
+BTL.obj : error LNK2019: unresolved external symbol __imp_listen referenced in function main
+BTL.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function "void __cdecl sendReq(unsigned __int64)" (?sendReq@@YAX_K@Z)
+BTL.obj : error LNK2019: unresolved external symbol __imp_select referenced in function "unsigned long __cdecl ClientThread(void *)" (?ClientThread@@YAKPEAX@Z)
+BTL.obj : error LNK2019: unresolved external symbol __imp_send referenced in function "void __cdecl sendError(unsigned __int64)" (?sendError@@YAX_K@Z)
+BTL.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function main
+BTL.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function main
+C:\Users\ironman\Desktop\btl_LTM\x64\Debug\BTL_MMT.exe : fatal error LNK1120: 10 unresolved externals
